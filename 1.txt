@@ -1,2 +1,2 @@
-'Hello branch new, Artem Baloban
-'
+<<<<<<< HEAD
+'Hello branch new, Artem Baloban'
